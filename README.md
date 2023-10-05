@@ -1,8 +1,3 @@
-Descritpion Template
-This is Project Porfolio
-
-Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
-
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Poker Side Game - 德州小游戏
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
