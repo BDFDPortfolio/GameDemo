@@ -14,7 +14,7 @@
 
 Poker Side Game - Currently includes two games: rabbit bet and lucky number
 
-**Project Link:** [Poker Side Game main page](https://www.bdfd.cf)
+**Project Link:** [Poker Side Game main page](https://www.bdfd.gq)
 
 ## Tools Used In This Project
 
